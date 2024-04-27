@@ -30,4 +30,3 @@ const MainContainer = () =>{
 
 ReactDOM.render(<MainContainer/>, document.querySelector("#root"))
 
-ReactDOM.render(<MyList/>, document.querySelector("#root"))
