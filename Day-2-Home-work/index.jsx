@@ -1,7 +1,7 @@
 const MainContainer = () =>{
   return (
     <div id="box">
-      <h1>Learn Web Development</h1>
+      <h1>Topics Covered</h1>
 
 
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis laborum, fugiat impedit repellendus distinctio ratione asperiores veniam. Nulla, nesciunt voluptatibus!</p>
